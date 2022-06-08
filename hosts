@@ -1,0 +1,7 @@
+[webserver]
+ips
+
+
+[all:vars]
+ansilble_user=root
+
